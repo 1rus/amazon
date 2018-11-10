@@ -1,0 +1,20 @@
+# vim
+Session.vim
+*.sw[po]
+
+# python
+.cache/
+.idea/
+__pycache__/
+output/
+
+*.py[cod]
+*.eggs
+*.xml
+debug.log
+report.xml
+
+build/
+venv/
+# end of git ignore for dec17
+
